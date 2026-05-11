@@ -59,4 +59,4 @@ require_once LIB_CORE . 'Database.php';
 
 ## License
 
-MIT
+AGPL-3.0
